@@ -1,0 +1,1 @@
+Criei este código pra praticar o primeiro conceito explicado no livro: Entendendo Algoritmos.
